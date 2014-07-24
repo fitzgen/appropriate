@@ -1,0 +1,14 @@
+{
+  "name": "appropriate",
+  "version": "0.0.0",
+  "description": "Source-to-source transformer for logging allocations",
+  "main": "appropriate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nick Fitzgerald",
+  "license": "BSD",
+  "dependencies": {
+    "rewrite-js": "^1.0.1"
+  }
+}
